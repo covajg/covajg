@@ -2,7 +2,7 @@
 Hi, I'm [covajg](http://www.linkedin.com/in/jose-gregorio-cova) 👋 :rocket: Venezuelan living in Spain
 
 ![age](https://img.shields.io/badge/age-41-blue)
-![focus](https://img.shields.io/badge/focus-frontend-brightgreen)
+![focus](https://img.shields.io/badge/focus-Frontend-brightgreen)
 ![living](https://img.shields.io/badge/living-Madrid-3c9)
 ![visitors](https://komarev.com/ghpvc/?username=covajg&label=visitors) 
 
