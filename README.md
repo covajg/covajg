@@ -11,14 +11,12 @@ Hi, I'm [covajg](http://www.linkedin.com/in/jose-gregorio-cova) 👋 :rocket: Ve
 ```javascript
 const thai = {
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS],
+  code: [Javascript, HTML, CSS, currently learning React and TypeScript],
   tools: [React, Node],
   
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the UDEMY challenge focused on React and JavaScript"
 }
 ```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
