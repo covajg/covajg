@@ -1,5 +1,5 @@
 ### Hello World
-Hi, I'm [covajg](https://covajg.com) 👋
+Hi, I'm [covajg](www.linkedin.com/in/jose-gregorio-cova) 👋
 
 ![age](https://img.shields.io/badge/age-41-blue)
 ![focus](https://img.shields.io/badge/focus-frontend-brightgreen)
