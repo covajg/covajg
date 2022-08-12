@@ -1,5 +1,5 @@
 ### Hello World
-Hi, I'm [covajg](http://www.linkedin.com/in/jose-gregorio-cova) 👋 :rocket: :venezuela:	 :es:	
+Hi, I'm [covajg](http://www.linkedin.com/in/jose-gregorio-cova) 👋 :rocket: Venezuelan living in Spain
 
 ![age](https://img.shields.io/badge/age-41-blue)
 ![focus](https://img.shields.io/badge/focus-frontend-brightgreen)
