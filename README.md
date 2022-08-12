@@ -9,7 +9,7 @@ Hi, I'm [covajg](http://www.linkedin.com/in/jose-gregorio-cova) 👋 :rocket: Ve
 <br />
 
 ```javascript
-const thai = {
+const Jose = {
   pronouns: "he" | "his",
   code: [Javascript, HTML, CSS, currently learning React and TypeScript],
   tools: [React, Node],
