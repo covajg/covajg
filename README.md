@@ -11,7 +11,7 @@ Hi, I'm [covajg](http://www.linkedin.com/in/jose-gregorio-cova) 👋 :rocket: Ve
 ```javascript
 const Jose = {
   pronouns: "he" | "his",
-  code: [Javascript, HTML, CSS, currently learning React and TypeScript],
+  code: [Javascript, HTML, CSS, React, TypeScript],
   tools: [React, Node],
   
  challenge: "I am doing the UDEMY challenge focused on React and JavaScript"
