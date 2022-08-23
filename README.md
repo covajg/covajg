@@ -12,7 +12,7 @@ Hi, I'm [covajg](http://www.linkedin.com/in/jose-gregorio-cova) 👋 :rocket: Ve
 const Jose = {
   pronouns: "he" | "his",
   code: [Javascript, HTML, CSS, React, TypeScript],
-  tools: [React, Node],
+  tools learning: [React, Node],
   
  challenge: "I am doing the UDEMY challenge focused on React and JavaScript"
 }
